@@ -1,5 +1,4 @@
 
-# # Grupo: Alecssander, Fabrício e Tadeu
 # # Imports
 
 
